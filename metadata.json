@@ -1,0 +1,10 @@
+{
+  "name": "Presensi Pintar QR & WhatsApp Notifikasi",
+  "description": "Sistem absensi murid digital berbasis scan barcode dinamis anti-curang, pencatatan waktu otomatis real-time, pengiriman notifikasi WhatsApp ke orang tua, profil lembaga & kepala sekolah manual, serta portal terintegrasi untuk Murid, Guru Kelas, dan Admin.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
